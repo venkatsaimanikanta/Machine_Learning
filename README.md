@@ -97,3 +97,21 @@ To Stop any docker container
 ```
 docker stop <container_id>
 ```
+
+
+Create a folder housing in vs code (Folder should be empty in initial stage)
+```
+housing
+```
+
+create a new file 
+```
+setup.py
+from setuptools import setup
+```
+
+
+
+```
+python setup.py install
+```
