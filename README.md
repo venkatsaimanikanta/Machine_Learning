@@ -112,3 +112,9 @@ from setuptools import setup
 from setuptools import setup
 from typing import List
 ```
+
+
+install kernel
+```
+pip install ipykernel
+```
