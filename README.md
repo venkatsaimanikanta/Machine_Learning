@@ -118,3 +118,16 @@ install kernel
 ```
 pip install ipykernel
 ```
+
+```
+--- Create these objects in Entity:-  ----
+
+DataIngestionConfig
+DataValidationConfig
+DataTransformationConfig
+DataTrainerConfig
+DataEvaluationConfig
+ModelPusherConfig
+```
+
+

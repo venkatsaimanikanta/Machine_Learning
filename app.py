@@ -15,11 +15,11 @@ def index():
     except Exception as e:
         raise HousingException(e,sys)  from e
 
-        ## housing = HousingException(e,sys)
+    ### housing = HousingException(e,sys)
         
         logging.info(housing.error_message)
         logging.info("We are testing logging module")
-    return "CI CD PiPELINE HAS BEEN ESTABLISHED."
+        return "CI CD PiPELINE HAS BEEN ESTABLISHED."
 
 
 if __name__ == "__main__":

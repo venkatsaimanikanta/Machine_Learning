@@ -15,8 +15,6 @@ data_ingestion_config:
 
 
 
-
-
 data_validation_config:
   schema_file_name: schema.yaml
 
@@ -43,4 +41,3 @@ model_evaluation_config:
 
 model_pusher_config:
   model_export_dir: saved_models
-
