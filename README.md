@@ -130,4 +130,35 @@ DataEvaluationConfig
 ModelPusherConfig
 ```
 
+```
+create config.yaml in machine_learning folder itself
 
+Config.yaml reads the config information that is required for our project.
+```
+
+
+```
+We have created entity and config.yaml 
+Now write code for config folder (Utilize Entity and config.yaml file aswell & giving configuration to the pipeline)
+```
+
+
+```
+create configuration.py file inside housing & inside config
+```
+
+```
+From config.yaml file how can i read the information
+Write code in example.ipynb 
+```
+
+```
+Util is a kind of helper function & It is Used when it is required
+create a util folder inside housing folder
+create a file inside util folder called util.py
+
+```
+
+```
+create a constant folder inside housing
+```
